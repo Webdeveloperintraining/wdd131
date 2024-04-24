@@ -25,8 +25,8 @@ nav{
 
 nav ul{
     list-style: none;
-	display: flex;
     background-color: #5F0F40;
+	display: flex;
 	align-items: center;
 }
 
@@ -47,6 +47,7 @@ main{
     background-color: #CB793A;
     padding: 2rem;
 }
+
 aside{
     grid-column: 2/3;
     padding: 2rem;
